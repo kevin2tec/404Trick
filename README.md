@@ -1,0 +1,2 @@
+# 404Trick
+LETS FIND THOSE BUGS
